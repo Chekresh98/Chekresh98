@@ -1,4 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hosbect Chekresh</h1>
+<h1 align="center">Hello 👋, I'm Hosbect Chekresh</h1>
+
+
+<div align="center">
+
+# 🛠️ Skills and Technologies
+
+![](https://img.shields.io/badge/Python-1d1f21?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+![UV](https://img.shields.io/badge/UV-1d1f21?style=flat&logo=uv&logoColor=white&labelColor=3E8EDE)
+![FastAPI](https://img.shields.io/badge/FastAPI-1d1f21?style=flat&logo=fastapi&logoColor=white&labelColor=009688)
+![SQLModel](https://img.shields.io/badge/SQLModel-1d1f21?style=flat&logo=fastapi&logoColor=white&labelColor=336791)
+![Supabase](https://img.shields.io/badge/Supabase-1d1f21?style=flat&logo=supabase&logoColor=white&labelColor=3ECF8E)
+
+![](https://img.shields.io/badge/Node.js-1d1f21?style=flat&logo=node.js&logoColor=white&labelColor=339933)
+![Angular](https://img.shields.io/badge/Angular-1d1f21?style=flat&logo=angular&logoColor=white&labelColor=DD0031)
+![](https://img.shields.io/badge/HTML5-1d1f21?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
+![](https://img.shields.io/badge/CSS-1d1f21?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
+![](https://img.shields.io/badge/Tailwind-1d1f21?style=flat&logo=tailwindcss&logoColor=white&labelColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d1f21?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
+![](https://img.shields.io/badge/JavaScript-1d1f21?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
+  
+</div>
 
 <div align="center">
 
@@ -11,5 +32,3 @@
 [![](https://visitcount.itsvg.in/api?id=Chekresh98&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
