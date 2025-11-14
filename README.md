@@ -29,6 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chekresh98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chekresh98&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Chekresh98&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
 
 </div>
