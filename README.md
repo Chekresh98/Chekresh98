@@ -27,7 +27,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=Chekresh98&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 <!--[![](https://nirzak-streak-stats.vercel.app?user=HChekresh&theme=dark)](https://git.io/streak-stats)<br/>-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=HChekresh)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=HChekresh)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=HChekresh)](https://git.io/streak-stats)-->
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=196756273" target="_blank" style="display: block" align="center">
